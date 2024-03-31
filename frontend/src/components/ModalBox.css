@@ -1,0 +1,61 @@
+.ModalBox {
+    width: 380px;
+    height: auto;
+    min-height: 150px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 20%;
+    left: calc(50% - 200px);
+    display: flex;
+    flex-direction: column;
+    padding: 10px 1px;
+    padding-bottom: 25px;
+    align-items: center;
+    z-index: 1000;
+    color: #78350F;
+}
+.ModalBox h1 {
+    width: 100%;
+    height: 55px;
+    line-height: 50px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.ModalBox button{
+    height: 34px;
+    width: 35%;
+    border-radius: 7px;
+    font-size: 14px;
+    cursor: pointer;
+    border: 2px solid #fcd34d8a;
+    background-color: #FDE68A;
+    color: #78350F;
+}
+.ModalBox button:active {
+    border: 2px solid #D97706;
+  }
+  
+.ModalBox button:hover{
+    background: linear-gradient(90deg, #FCD34D 0%, #F59E0B 100%);
+}
+.ModalBox input {
+width: 75%;
+height: 36px;
+margin-bottom: 16px;
+border: 2px solid rgba(172, 172, 172, 0.952);
+border-radius: 7px;
+padding-left: 7px;
+}
+.echo {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #747474;
+    opacity: .3;
+}
+#registr {
+width: 45%;
+}

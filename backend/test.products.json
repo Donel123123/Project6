@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65baaead757d99fd5038563e"
+  },
+  "header": "Браслет",
+  "price": 3900,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQCWAEcry6cC9qcrHwR9Om9d9ieh-mHvcOMdej2sLdCBI9heKOUH0VReUbc7tzm50PT7oRKjka8VFK2ORC7ywHAGpf7Zdj4YONHMY8lTNzHWnq-dzwlhryL&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baee37757d99fd50385641"
+  },
+  "header": "Браслет, ожерелье",
+  "price": 760,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNPSQNPmM-_1BbivNup4jJTcEEFDaH5DB6_Zahsok0XRgQghXf9faRkL5sH9NZPaZVD6WFu65lBMi5hrU6S2m-4ueo_AqhSi8tg7Qry4fx&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baeee2757d99fd50385642"
+  },
+  "header": "Кольцо",
+  "price": 1670,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRGnNlGOhpLg8PionfnAPMuvq4SzeWuMixqx-WIDf1lkJrf0zjUUbMFqjJvWz9QnlQd4gXLl90b0HmC_mC1obIxsTgPOLOia16NXN-rqf6n10mnV3Qf1Dgwew&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baef88757d99fd50385643"
+  },
+  "header": "Ожерелье",
+  "price": 776,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAPC0tyXLjPBxR6z72fFK9qpnHQxpWin34PpUpvdPBxNMDsiKr_G28n6ztT0C8y5fuUtIf-nCI0PU7hwvKePOZNCRxZF507T8SJBkoPUJfTy3ZFQi_MvuE5g&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf057757d99fd50385644"
+  },
+  "header": "Серьги",
+  "price": 17990,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSrVdfw9p8sIzIHAqN5NXt1XdBRstt5aMzy7kyAAqxQl_z8mMctUNbQdDC1Pvqwa7dgNscpOI9hWYb0cb532NqGqfqLg4bW9a_XPkWxwMXUYk3uOWVLlxwv3g&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf059757d99fd50385645"
+  },
+  "header": "Серьги",
+  "price": 35000,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSLdvuL6OnpjDrnXHx5xFWSfyfOC7Mrm_UkRlcLZHgu0KEn0pKlhq1NSvCBIdWZcJZXPkC_i1ZSStVSyOPCb1s8FaYNjcmx2fp_yMdywCuq7BS_HvVrQ0zC&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05b757d99fd50385646"
+  },
+  "header": "Кольцо",
+  "price": 20000,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTN5Aq8AUMSxJb1Z-ZMO6lutFgcOMZ_Tk7hg88_a4SEvAsE4lRz25MgxN4ze_WWb4FqqlVzcU4gjuiUgJw9_h1kYGYiYpmkUpTLXWbiWYli5cNAw9o2G_Jx&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05d757d99fd50385647"
+  },
+  "header": "Колье",
+  "price": 17800,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7-J0KPS5iknCwiD3gTE71TxgqCUDTBlSRSp0deUfs-29COVk_r4OxmHGowzZ4608EISneacngfy9VwmVu_bCVyVCHov8Bbg9jh5tDwl1OL3FZz59lqvSE2A&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05f757d99fd50385648"
+  },
+  "header": "Кулон",
+  "price": 30240,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3eU72kDRu3Vb9MqXcnsn4hrw76lz6AOHHuBGj8JBmcHRKR1HPTngHKmi52Msm_mXjvFRsiZaO1-2qcRRtSRucdXk0wDhA&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf060757d99fd50385649"
+  },
+  "header": "Брасле",
+  "price": 3152,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThaJbDQeHUI0q5vt-HDbgdYGjjGLTSExQUOHOrX99cAVltqH7lw-7PUfB6l9iEN3xMumr6ktHkOHDwMlDraKwGAoROxc7yOJ10qNmllkkYu02UyWpQAm2lYw&usqp=CAE"
+}]
